@@ -44,3 +44,18 @@ body{
   background: rgb(77, 77, 77);
   color: #fff;
 }
+
+.social{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.social a{
+  color: #000;
+  text-decoration: none;
+  font-size: 35px;
+  margin-right: 10px;
+}
